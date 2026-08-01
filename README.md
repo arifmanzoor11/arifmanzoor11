@@ -123,15 +123,15 @@ I work across the full development lifecycle—from planning and architecture to
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arifmanzoor11&show_icons=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=374151&bg_color=00000000" alt="Arif's GitHub statistics" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifmanzoor11&theme=github" alt="Arif Manzoor's GitHub contribution summary" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmanzoor11&layout=compact&hide_border=true&title_color=F97316&text_color=374151&bg_color=00000000" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifmanzoor11&theme=github" alt="Arif Manzoor's GitHub statistics" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arifmanzoor11&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000" alt="GitHub contribution streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifmanzoor11&theme=github" alt="Languages used across Arif Manzoor's public repositories" />
 
 </div>
 
-> GitHub language cards show languages detected in public repositories and do not represent overall expertise.
+> Language cards are calculated from public repository data and do not represent overall proficiency.
 
 ---
 
